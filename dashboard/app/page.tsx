@@ -12,7 +12,7 @@ export default function HomePage() {
       {/* Titre principal */}
       {/* ============================= */}
       <h1 className="text-2xl font-semibold text-zinc-800">
-        Tableau de bord
+        Dashboard
       </h1>
 
       {/* ============================= */}
